@@ -1,0 +1,11 @@
+.navbar1{
+    background-color: aquamarine;
+    text-align: center;
+    width: 450px;
+    box-sizing:50px;
+    border-radius: 2px;
+}
+.navbar1 img{
+    width: 150px;
+    padding: 10px;
+}
